@@ -1,0 +1,218 @@
+D:\PK Office\CAPTURE\WebcamCapture\bin\WebcamCapture.dll.config
+D:\PK Office\CAPTURE\WebcamCapture\bin\WebcamCapture.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\WebcamCapture.pdb
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\csc.exe
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\csc.exe.config
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\csc.rsp
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\csi.exe
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\csi.exe.config
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\csi.rsp
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.AppContext.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Collections.Immutable.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Console.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Globalization.Calendars.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.IO.Compression.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.IO.FileSystem.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Net.Http.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Net.Sockets.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Reflection.Metadata.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.ValueTuple.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Xml.XPath.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\vbc.exe
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\vbc.exe.config
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\vbc.rsp
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\VBCSCompiler.exe
+D:\PK Office\CAPTURE\WebcamCapture\bin\roslyn\VBCSCompiler.exe.config
+D:\PK Office\CAPTURE\WebcamCapture\bin\AForge.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\AForge.Video.DirectShow.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\AForge.Video.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\Antlr3.Runtime.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\Microsoft.Web.Infrastructure.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\Microsoft.WebSockets.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\Newtonsoft.Json.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\Oracle.ManagedDataAccess.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Buffers.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Diagnostics.DiagnosticSource.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Formats.Asn1.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Memory.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Numerics.Vectors.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Text.Encodings.Web.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Text.Json.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Threading.Tasks.Extensions.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.ValueTuple.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.Helpers.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.Mvc.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.Optimization.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.Razor.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.WebPages.Deployment.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.WebPages.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.WebPages.Razor.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\WebGrease.dll
+D:\PK Office\CAPTURE\WebcamCapture\bin\AForge.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\AForge.Video.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\AForge.Video.DirectShow.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Buffers.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Diagnostics.DiagnosticSource.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Formats.Asn1.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Memory.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Numerics.Vectors.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Text.Encodings.Web.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Text.Json.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Threading.Tasks.Extensions.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.ValueTuple.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.Helpers.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.Mvc.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.Optimization.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.Razor.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.WebPages.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.WebPages.Deployment.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\System.Web.WebPages.Razor.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\Newtonsoft.Json.xml
+D:\PK Office\CAPTURE\WebcamCapture\bin\Antlr3.Runtime.pdb
+D:\PK Office\CAPTURE\WebcamCapture\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PK Office\CAPTURE\WebcamCapture\obj\Debug\WebcamCapture.csproj.CoreCompileInputs.cache
+D:\PK Office\CAPTURE\WebcamCapture\obj\Debug\WebcamCapture.csproj.CopyComplete
+D:\PK Office\CAPTURE\WebcamCapture\obj\Debug\WebcamCapture.dll
+D:\PK Office\CAPTURE\WebcamCapture\obj\Debug\WebcamCapture.pdb
+D:\PK Office\CAPTURE\WebcamCapture\obj\Debug\WebcamCapture.csproj.AssemblyReference.cache
+D:\CaptureApp\WebcamCapture\bin\WebcamCapture.dll.config
+D:\CaptureApp\WebcamCapture\bin\WebcamCapture.dll
+D:\CaptureApp\WebcamCapture\bin\WebcamCapture.pdb
+D:\CaptureApp\WebcamCapture\bin\roslyn\csc.exe
+D:\CaptureApp\WebcamCapture\bin\roslyn\csc.exe.config
+D:\CaptureApp\WebcamCapture\bin\roslyn\csc.rsp
+D:\CaptureApp\WebcamCapture\bin\roslyn\csi.exe
+D:\CaptureApp\WebcamCapture\bin\roslyn\csi.exe.config
+D:\CaptureApp\WebcamCapture\bin\roslyn\csi.rsp
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CaptureApp\WebcamCapture\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.AppContext.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Collections.Immutable.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Console.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Globalization.Calendars.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.IO.Compression.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.IO.FileSystem.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Net.Http.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Net.Sockets.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Reflection.Metadata.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.ValueTuple.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Xml.XPath.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CaptureApp\WebcamCapture\bin\roslyn\vbc.exe
+D:\CaptureApp\WebcamCapture\bin\roslyn\vbc.exe.config
+D:\CaptureApp\WebcamCapture\bin\roslyn\vbc.rsp
+D:\CaptureApp\WebcamCapture\bin\roslyn\VBCSCompiler.exe
+D:\CaptureApp\WebcamCapture\bin\roslyn\VBCSCompiler.exe.config
+D:\CaptureApp\WebcamCapture\bin\AForge.dll
+D:\CaptureApp\WebcamCapture\bin\AForge.Video.DirectShow.dll
+D:\CaptureApp\WebcamCapture\bin\AForge.Video.dll
+D:\CaptureApp\WebcamCapture\bin\Antlr3.Runtime.dll
+D:\CaptureApp\WebcamCapture\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CaptureApp\WebcamCapture\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CaptureApp\WebcamCapture\bin\Microsoft.Web.Infrastructure.dll
+D:\CaptureApp\WebcamCapture\bin\Microsoft.WebSockets.dll
+D:\CaptureApp\WebcamCapture\bin\Newtonsoft.Json.dll
+D:\CaptureApp\WebcamCapture\bin\Oracle.ManagedDataAccess.dll
+D:\CaptureApp\WebcamCapture\bin\System.Buffers.dll
+D:\CaptureApp\WebcamCapture\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CaptureApp\WebcamCapture\bin\System.Formats.Asn1.dll
+D:\CaptureApp\WebcamCapture\bin\System.Memory.dll
+D:\CaptureApp\WebcamCapture\bin\System.Numerics.Vectors.dll
+D:\CaptureApp\WebcamCapture\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CaptureApp\WebcamCapture\bin\System.Text.Encodings.Web.dll
+D:\CaptureApp\WebcamCapture\bin\System.Text.Json.dll
+D:\CaptureApp\WebcamCapture\bin\System.Threading.Tasks.Extensions.dll
+D:\CaptureApp\WebcamCapture\bin\System.ValueTuple.dll
+D:\CaptureApp\WebcamCapture\bin\System.Web.Helpers.dll
+D:\CaptureApp\WebcamCapture\bin\System.Web.Mvc.dll
+D:\CaptureApp\WebcamCapture\bin\System.Web.Optimization.dll
+D:\CaptureApp\WebcamCapture\bin\System.Web.Razor.dll
+D:\CaptureApp\WebcamCapture\bin\System.Web.WebPages.Deployment.dll
+D:\CaptureApp\WebcamCapture\bin\System.Web.WebPages.dll
+D:\CaptureApp\WebcamCapture\bin\System.Web.WebPages.Razor.dll
+D:\CaptureApp\WebcamCapture\bin\WebGrease.dll
+D:\CaptureApp\WebcamCapture\bin\AForge.xml
+D:\CaptureApp\WebcamCapture\bin\AForge.Video.xml
+D:\CaptureApp\WebcamCapture\bin\AForge.Video.DirectShow.xml
+D:\CaptureApp\WebcamCapture\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CaptureApp\WebcamCapture\bin\System.Buffers.xml
+D:\CaptureApp\WebcamCapture\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CaptureApp\WebcamCapture\bin\System.Formats.Asn1.xml
+D:\CaptureApp\WebcamCapture\bin\System.Memory.xml
+D:\CaptureApp\WebcamCapture\bin\System.Numerics.Vectors.xml
+D:\CaptureApp\WebcamCapture\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CaptureApp\WebcamCapture\bin\System.Text.Encodings.Web.xml
+D:\CaptureApp\WebcamCapture\bin\System.Text.Json.xml
+D:\CaptureApp\WebcamCapture\bin\System.Threading.Tasks.Extensions.xml
+D:\CaptureApp\WebcamCapture\bin\System.ValueTuple.xml
+D:\CaptureApp\WebcamCapture\bin\System.Web.Helpers.xml
+D:\CaptureApp\WebcamCapture\bin\System.Web.Mvc.xml
+D:\CaptureApp\WebcamCapture\bin\System.Web.Optimization.xml
+D:\CaptureApp\WebcamCapture\bin\System.Web.Razor.xml
+D:\CaptureApp\WebcamCapture\bin\System.Web.WebPages.xml
+D:\CaptureApp\WebcamCapture\bin\System.Web.WebPages.Deployment.xml
+D:\CaptureApp\WebcamCapture\bin\System.Web.WebPages.Razor.xml
+D:\CaptureApp\WebcamCapture\bin\Newtonsoft.Json.xml
+D:\CaptureApp\WebcamCapture\bin\Antlr3.Runtime.pdb
+D:\CaptureApp\WebcamCapture\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CaptureApp\WebcamCapture\obj\Debug\WebcamCapture.csproj.AssemblyReference.cache
+D:\CaptureApp\WebcamCapture\obj\Debug\WebcamCapture.csproj.CoreCompileInputs.cache
+D:\CaptureApp\WebcamCapture\obj\Debug\WebcamCa.CDB98607.Up2Date
+D:\CaptureApp\WebcamCapture\obj\Debug\WebcamCapture.dll
+D:\CaptureApp\WebcamCapture\obj\Debug\WebcamCapture.pdb
